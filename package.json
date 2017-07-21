@@ -1,0 +1,25 @@
+{
+  "name": "resthen",
+  "version": "1.0.0",
+  "description": "Promise to Callback approach",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/djansyle/resthen.git"
+  },
+  "keywords": [
+    "promise",
+    "callback",
+    "synchronous",
+    "asynchronous"
+  ],
+  "author": "djansyle",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/djansyle/resthen/issues"
+  },
+  "homepage": "https://github.com/djansyle/resthen#readme"
+}
